@@ -1,0 +1,14 @@
+.shop-container {
+
+    display: flex;
+}
+
+.product-container {
+
+    margin: 0 0 0 8%;
+}
+
+.order-container {
+    border-left: 1px solid lightgray;
+    width: 400px;
+}
